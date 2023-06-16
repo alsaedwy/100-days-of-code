@@ -14,3 +14,4 @@ print("Thanks for providing these information, please find below the name of you
 
 print(pet_name + " " + hometown_name)
 
+# day 1 revisited
