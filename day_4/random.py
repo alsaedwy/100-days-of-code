@@ -1,0 +1,1 @@
+# Python uses Mersenne Twister; a psudonrandom number generator.
