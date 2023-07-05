@@ -5,9 +5,7 @@ World!
 print(test_string)
 
 def doc_func():
-    """
-    This function does magical things
-    """
+    # Does magical things
     return False
 
-print(print.__doc__)
+print(doc_func(.__doc__))
